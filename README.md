@@ -10,8 +10,14 @@ this system is used for login , log out , create and update article, reset accou
 
 2.system and architecture design
 
-3.user case design
+3.database design
 
-4.user activity design
+4.user activity design case design
 
-restful api design
+5.restful api design
+
+6.UI design
+
+7. node.JS  
+
+8. mongoDB
