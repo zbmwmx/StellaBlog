@@ -17,7 +17,7 @@ this system is used for login , log out , create and update article, reset accou
 ## 3.database design
 
 ## 4.user activity design case design
-
+usercase  : https://github.com/zbmwmx/StellaBlog/blob/master/uml-Stella-Blog.png 
 ## 5.restful api design
 
 ## 6.UI design
