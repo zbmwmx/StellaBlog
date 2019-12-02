@@ -20,7 +20,8 @@ this system is used for login , log out , create and update article, reset accou
 usercase  : https://github.com/zbmwmx/StellaBlog/blob/master/uml-Stella-Blog.png 
 ## 5.restful api design
 
-## 6.UI design
+## 6.UI design & frontend
+    bootstrap: how to put bootstrap inside node.js
 
 ## 7. node.JS  
 
