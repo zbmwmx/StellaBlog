@@ -1,0 +1,13 @@
+#restfulAPI design
+
+author/get/list
+author/create/id
+author/post/id
+author/update/id
+author/delete/id
+
+user/get/list
+user/create/id
+user/post/id
+user/update/id
+user/delete/id
