@@ -32,3 +32,7 @@ a blog for user to create and update article
     https://stackoverflow.com/questions/48910876/error-eacces-permission-denied-access-usr-local-lib-node-modules-react
 
 ## 8. mongoDB
+
+## 9.AWS
+     install mysql in ec2 with centos system
+     http://www.mysqltutorial.org/install-mysql-centos/
